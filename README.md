@@ -1,16 +1,20 @@
-# adv_flutter_exam_1
+<h1 align="center"> 🔶🔸 Country App🔸🔶 </h1>
 
-A new Flutter project.
+<div align="center">
+  <img height="550" align="left" src="https://github.com/user-attachments/assets/541640a6-01c3-47f9-b06c-694413e292e1"/>
+  <img height="550" src="https://github.com/user-attachments/assets/190461e5-05eb-48b9-82e5-7fe30e0a167f"/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/017fe27e-afd0-4d26-826a-d826ff4ec074"/>
+</div>
 
-## Getting Started
+<h1 align="center"> </h1>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img height="550" align="left" src="https://github.com/user-attachments/assets/4ed377cb-b91a-4bb2-a79a-96396e0d4520"/>
+  <img height="550" src="https://github.com/user-attachments/assets/b128ea9f-c3b7-45d2-b5bd-8e24a2cfaa3f"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<h1 align="left"> </h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <video height="550" src="https://github.com/user-attachments/assets/5bb1279e-e6f1-498f-bac6-7a5790edff13"/>
+</div>
